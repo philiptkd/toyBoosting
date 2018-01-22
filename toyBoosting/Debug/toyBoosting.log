@@ -1,0 +1,5 @@
+﻿  toyBoosting.cpp
+c:\users\phil\source\repos\toyboosting\toyboosting\toyboosting.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\phil\source\repos\toyboosting\toyboosting\toyboosting.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\phil\source\repos\toyboosting\toyboosting\toyboosting.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  toyBoosting.vcxproj -> C:\Users\Phil\source\repos\toyBoosting\Debug\toyBoosting.exe
